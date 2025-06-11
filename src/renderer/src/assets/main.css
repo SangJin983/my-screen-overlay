@@ -1,0 +1,6 @@
+body,
+html,
+#root {
+  background-color: transparent;
+  overflow: hidden; /* 스크롤바를 강제로 숨기는 코드 */
+}
