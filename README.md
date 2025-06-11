@@ -36,7 +36,7 @@
 1.  이 레포지토리를 클론합니다.
     ```bash
     git clone https://github.com/SangJin983/my-screen-overlay.git
-    cd my-focus-app
+    cd my-screen-overlay
     ```
 2.  의존성을 설치합니다.
     ```bash
